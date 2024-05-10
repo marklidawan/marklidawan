@@ -17,12 +17,24 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
+<div align="center" dir="auto"> 
+  
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://camo.githubusercontent.com/36abca4bcab1c9e2880505b22da85c7a7ab901dc58d159f31a1684685ec9af71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
+  </a><a href="https://linkedin.com/in/pedro-sales-muniz" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://salesp07.github.io" rel="nofollow">
+     <img src="https://camo.githubusercontent.com/3c99fd56670d36b7740c6cc9414b147ac2970aa1e7e43fbcf9df0a12ed5e44e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d746f646f697374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=todoist&amp;logoColor=white" style="max-width: 100%;"> 
+  </a>
+</div>
+<!--
 <a href="mailto:marklidawan@gmail.com">
     <img src="https://camo.githubusercontent.com/36abca4bcab1c9e2880505b22da85c7a7ab901dc58d159f31a1684685ec9af71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
   </a>
   
-<a href="https://fb.com/kramikz.lidawan](https://www.linkedin.com/in/mark-christian-lid-awan-b30636189/" target="blank"><img align="center" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" /></a>
+<a href="https://www.linkedin.com/in/mark-christian-lid-awan-b30636189/" target="blank"><img align="center" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" /></a>
+-->
 </p>
 </br></br></br>
 <h3 align="center">Languages and Tools:</h3>
