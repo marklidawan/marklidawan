@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 I’m currently working on **Prince Technologies Corporation**
+<!-- - 💻 I’m currently working on **Prince Technologies Corporation** -->
 
-- 📚 I’m currently learning **Flutter and Laravel**
+- 📚 I’m continually learning **Flutter and Laravel**
 
-- 👨‍💻 Current Project [priisms](https://github.com/marklidawan/prisms)
+<!-- - 👨‍💻 Current Project [priisms](https://github.com/marklidawan/prisms) -->
 
 <!-- - 📩 How to reach me **marklidawan@gmail.com** -->
 
