@@ -9,7 +9,7 @@
 
 <!-- - 💻 I’m currently working on **Prince Technologies Corporation** -->
 
-- 📚 **Flutter, Nuxt and Laravel**
+- 📚 **React Native, Flutter, React and Laravel**
 
 <!-- - 👨‍💻 Current Project [priisms](https://github.com/marklidawan/prisms) -->
 
